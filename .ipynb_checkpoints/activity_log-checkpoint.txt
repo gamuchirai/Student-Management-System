@@ -18,5 +18,4 @@
 2025-09-04 12:29:14.166155 - gamuchirai - Logged out
 2025-09-04 18:08:31.343600 - gamuchirai - Logged in
 2025-09-04 18:10:53.269452 - gamuchirai - Added student 05
-2025-09-04 18:43:18.057160 - gamuchirai - Logged out2025-09-04 21:22:30.133832 - gamuchirai - Logged in
-2025-09-04 21:22:36.155828 - gamuchirai - Logged out
+2025-09-04 18:43:18.057160 - gamuchirai - Logged out
