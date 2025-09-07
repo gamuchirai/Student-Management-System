@@ -16,7 +16,7 @@ A simple Python-based Student Management System developed as a capstone project 
 
 ## 📂 Project Structure
 ```
-student_management_system/
+student-management-system/
 │── main.py              # Main program (menu-driven interface)
 │── users.txt            # Stores usernames and passwords
 │── students.txt         # Stores student records
@@ -26,7 +26,7 @@ student_management_system/
 ## How to Run
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/student-management-system.git
+   git clone https://github.com/gamuchirai/Student-Management-System.git
    cd student-management-system
    ```
 2. Run the program:
